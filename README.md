@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-IoT=github:DoraLC/pxt-camera
+github:DoraLC/pxt-camera
 ```
